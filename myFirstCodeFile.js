@@ -7,3 +7,7 @@ journal.push(dm11);
 var stuff = "Did we succeed?";
 
 journal.push(stuff);
+
+var answer = "Maybe though only time will tell";
+
+journal.push(answer);

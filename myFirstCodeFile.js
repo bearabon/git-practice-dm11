@@ -11,3 +11,7 @@ journal.push(stuff);
 var answer = "Maybe though only time will tell";
 
 journal.push(answer);
+
+var extra = "Added from git";
+
+journal.push(extra);
